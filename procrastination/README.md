@@ -2,11 +2,11 @@
 
 This is based on https://youtu.be/EkDxsQRbIwo
 
-Procrastination is the act of unnecessarily and voluntarily delaying or postponing something despite knowing that there will be negative consequences for doing so
+> Procrastination is the act of unnecessarily and voluntarily delaying or postponing something despite knowing that there will be negative consequences for doing so
 
 -- https://en.wikipedia.org/wiki/Procrastination
 
-[![table of contents in a mindmap](markmap.svg)](markmap.html)
+![table of contents in a mindmap](markmap.png)
 
 ## Types
 
